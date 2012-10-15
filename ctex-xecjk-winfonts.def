@@ -1,3 +1,8 @@
+% File: /Users/ljunf/Library/texmf/tex/latex/ctex/fontset/ctex-xecjk-winfonts.def
+% Author: Junfeng Li <li424@mcmaster.ca>
+% Description:
+% Created: October 14, 2012
+
 % ctex-xecjk-winfonts.def: Windows 的 xeCJK 字体设置，默认为六种中易字体
 % vim:ft=tex
 
