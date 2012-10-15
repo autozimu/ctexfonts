@@ -1,4 +1,4 @@
-keyword: fontspec, ctex, xeLaTeX, LaTeX
+keyword: fontspec, ctex, xeLaTeX, LaTeX, MacTeX
 
-Configuration file to specify default font when using `ctexart`
+LaTeX configuration file to specify default font when using `ctexart`
 documentclass in LaTeX
