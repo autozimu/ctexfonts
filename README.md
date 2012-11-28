@@ -3,4 +3,4 @@ MacTeX/LaTeX configuration file to specify default font when using
 with required fonts installed.
 
 MacTex/LaTeX 字体配置文件, 用于指定 *ctex* 默认中文字体 ( *ctex* 默认使用
-*Windowns*下的六种中易字体).
+*Windowns* 下的六种中易字体).
