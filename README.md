@@ -1,3 +1,5 @@
+> Deprecated by now, as ctex predefined multiple font scheme. <https://www.tug.org/texlive//Contents/live/texmf-dist/tex/latex/ctex/fontset/>
+
 MacTeX/TeXLive configuration file to specify default font when using
 `ctex*` documentclasses. Should be usable under all unix like systems
 when fonts installed.
